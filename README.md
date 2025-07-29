@@ -61,9 +61,9 @@ The app predicts and displays the estimated monthly and yearly salary
 
 ## 📁 Files in this Repository
 
-- `Salary_Prediction_Using_Ensemble_Learning.ipynb` – Complete notebook with model building and evaluation  
+- `Employe_Salary_Prediction_using_ML_Project_final.ipynb` – Complete notebook with model building and evaluation  
 - `New_Salary_gui.py` – Python file for running the Gradio app  
-- `model.pkl` – Trained XGBoost model  
+- `xgb_model.pkl` – Trained XGBoost model  
 - `scaler.pkl` – StandardScaler object used for feature scaling  
 - `README.md` – Project documentation (this file)
 
