@@ -66,6 +66,8 @@ The app predicts and displays the estimated monthly and yearly salary
 - `xgb_model.pkl` – Trained XGBoost model  
 - `scaler.pkl` – StandardScaler object used for feature scaling  
 - `README.md` – Project documentation (this file)
+- `Salary_Data_(salary-prediction-project)`- Dataset
+- `salary_prediction_gui_screenshot`- Output Screenshort
 
 ---
 
